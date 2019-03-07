@@ -531,16 +531,13 @@ nav.navbar {
 	/* line-height: 1.8; */
 }
 
-/* .resume-col-container a { */
-.resume-img-list a {
+/* .resume-img-list a {
 	color: #40424a;
 }
 
-/* .resume-col-container a:hover { */
 .resume-img-list a:hover {
-	/* color: rgb(113, 121, 131); */
 	color: #808181;
-}
+} */
 
 /* Resume no image */
 .resume-section.with-bg {
